@@ -316,68 +316,11 @@ SQLAlchemy @ file:///C:/ci/sqlalchemy_1647600017103/work
 stack-data @ file:///opt/conda/conda-bld/stack_data_1646927590127/work
 statsmodels==0.13.2
 streamlit==1.25.0
-sympy @ file:///C:/ci/sympy_1647853873858/work
-tables==3.6.1
-tabulate==0.8.9
-TBB==0.2
-tblib @ file:///Users/ktietz/demo/mc3/conda-bld/tblib_1629402031467/work
-tenacity==8.2.2
-tensorboard==2.11.2
-tensorboard-data-server==0.6.1
-tensorboard-plugin-wit==1.8.1
+
 tensorflow==2.11.0
 tensorflow-estimator==2.11.0
 tensorflow-intel==2.11.0
 tensorflow-io-gcs-filesystem==0.31.0
-termcolor==2.2.0
-terminado @ file:///C:/ci/terminado_1644322780199/work
-testpath @ file:///tmp/build/80754af9/testpath_1624638946665/work
-text-unidecode @ file:///Users/ktietz/demo/mc3/conda-bld/text-unidecode_1629401354553/work
-textdistance @ file:///tmp/build/80754af9/textdistance_1612461398012/work
-thop==0.1.1.post2209072238
-threadpoolctl @ file:///Users/ktietz/demo/mc3/conda-bld/threadpoolctl_1629802263681/work
-three-merge @ file:///tmp/build/80754af9/three-merge_1607553261110/work
-tifffile @ file:///tmp/build/80754af9/tifffile_1627275862826/work
-tinycss @ file:///tmp/build/80754af9/tinycss_1617713798712/work
-tldextract @ file:///opt/conda/conda-bld/tldextract_1646638314385/work
-toml @ file:///tmp/build/80754af9/toml_1616166611790/work
-tomli @ file:///tmp/build/80754af9/tomli_1637314251069/work
-toolz @ file:///tmp/build/80754af9/toolz_1636545406491/work
-torch==2.0.1
-torchvision==0.15.2
-tornado @ file:///C:/ci/tornado_1606924294691/work
-tqdm @ file:///C:/ci/tqdm_1650636210717/work
-traitlets @ file:///tmp/build/80754af9/traitlets_1636710298902/work
-Twisted @ file:///C:/ci/twisted_1646835413846/work
-twisted-iocpsupport @ file:///C:/ci/twisted-iocpsupport_1646798932792/work
-typed-ast @ file:///C:/ci/typed-ast_1624953797214/work
-typing_extensions @ file:///opt/conda/conda-bld/typing_extensions_1647553014482/work
-tzdata==2023.3
-tzlocal==4.3.1
-ujson @ file:///C:/ci/ujson_1648044223886/work
-ultralytics==8.0.98
-Unidecode @ file:///tmp/build/80754af9/unidecode_1614712377438/work
-urllib3==1.26.15
-validators==0.20.0
-w3lib @ file:///Users/ktietz/demo/mc3/conda-bld/w3lib_1629359764703/work
-watchdog @ file:///C:/ci/watchdog_1638367441841/work
-wcwidth @ file:///Users/ktietz/demo/mc3/conda-bld/wcwidth_1629357192024/work
-webencodings==0.5.1
-websocket-client @ file:///C:/ci/websocket-client_1614804375980/work
-Werkzeug @ file:///opt/conda/conda-bld/werkzeug_1645628268370/work
-wget==3.2
-widgetsnbextension @ file:///C:/ci/widgetsnbextension_1644991377168/work
-win-inet-pton @ file:///C:/ci/win_inet_pton_1605306162074/work
-win-unicode-console==0.5
-wincertstore==0.2
-wrapt @ file:///C:/ci/wrapt_1607574570428/work
-xarray @ file:///opt/conda/conda-bld/xarray_1639166117697/work
-xgboost==1.7.3
-xlrd @ file:///tmp/build/80754af9/xlrd_1608072521494/work
-XlsxWriter @ file:///opt/conda/conda-bld/xlsxwriter_1649073856329/work
-xlwings==0.24.9
-yapf @ file:///tmp/build/80754af9/yapf_1615749224965/work
-yarl @ file:///C:/ci/yarl_1606940155993/work
-zict==2.0.0
+
 zipp @ file:///opt/conda/conda-bld/zipp_1641824620731/work
 zope.interface @ file:///C:/ci/zope.interface_1625036252485/work
