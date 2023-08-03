@@ -17,7 +17,7 @@ opencv-python==4.7.0.72
 
 
 
-simple-image-download==0.5
+
 
 
 sklearn-features==0.0.2
