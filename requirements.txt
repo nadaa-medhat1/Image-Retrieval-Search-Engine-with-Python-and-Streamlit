@@ -1,20 +1,11 @@
 
-anaconda-navigator==2.1.4
 
-
-conda==4.12.0
-conda-build==3.21.8
-
-conda-verify==3.4.2
-
-
-fonttools==4.25.0
 
 
 
 keras==2.11.0
 
-missingno==0.5.1
+
 
 
 nn-torch==0.0.11
@@ -26,10 +17,8 @@ opencv-python==4.7.0.72
 
 
 
-scikit-learn-intelex==2021.20220215.102710
-
 simple-image-download==0.5
-sip==4.19.13
+
 
 sklearn-features==0.0.2
 
@@ -37,7 +26,5 @@ statsmodels==0.13.2
 streamlit==1.25.0
 
 tensorflow==2.11.0
-tensorflow-estimator==2.11.0
-tensorflow-intel==2.11.0
-tensorflow-io-gcs-filesystem==0.31.0
+
 
