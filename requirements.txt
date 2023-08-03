@@ -1,27 +1,11 @@
 
-
-
-
-
 keras==2.11.0
-
-
-
 
 nn-torch==0.0.11
 
 numpy==1.25.2
 
-
-opencv-python==4.7.0.72
-
-
-
-
-
-
 sklearn-features==0.0.2
-
 
 streamlit==1.25.0
 
